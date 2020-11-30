@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Jacob Shuler's Portfolio</title>
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="CSS/Home.CSS">
+    </head>
+  
+    <body>
+        <div>
+            <header>
+                <div class="container" id="header">
+                    <h1>Shuler's Progress</h1>
+                    <p>Just the journey of an aspiring Developer.</p>
+                    <nav>
+                        <ul id="main-nav">
+                            <li><a href="#">Home</a></li>
+                            <li><a href="#about">About Me</a></li>
+                            <li><a href="#mywork">My Work</a></li>
+                            <li><a href="#contact">Contact</a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </header>
+            <img src="img/image1.jpg" alt="bald man with mustache" id="main-image">
+            <main>
+                <div class="container" id="main-content">
+                    <section id="about">
+                        <h2>Why Are You Here?</h2>
+                        <p>To come to know Jacob Shuler: Husband, Father, Pastor, & self-taught Develepor. I am currently taking courses on Team Treehouse, Udemy, Pluralsight, and Freecodecamp. I am a self proclaimed coffee connoisseur, a lover of good music, and I grow a mean mustache. I have spent the last several months teaching myself HTML/CSS, as well as JavaScript, in order to make the transition into a rewarding new career field.</p>
+                    </section>
+
+                    <section id="mywork">
+                        <h2>What I Do</h2>
+                        <p>Please check out my projects so far...</p>
+                        <img src="">
+                    </section>
+
+                    <secion id="contact">
+                        <h2>Get In Touch</h2>
+                        <p>Please feel free to contact me at jacobpaulshuler@gmail.com</p>
+                    </secion>
+                </div>
+            </main>
+            <hr>
+            <footer>Shuler's Progress 2020</footer>  
+        </div>  
+    </body>
+
+</html>
